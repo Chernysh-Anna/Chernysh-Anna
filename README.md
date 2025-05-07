@@ -5,14 +5,6 @@ This repository is my **personal learning journal and portfolio**—where I expl
 
 ---
 
-## 📌 What you’ll find here:
-- 🐍 Hands-on projects with **Python & SQL**  
-- 📚 Coursework and personal experiments  
-- 📊 **Data visualizations** & dashboards  
-- 🔍 A record of progress, curiosity, and continuous learning  
-
----
-
 Thanks for stopping by!  
 Let’s connect if you’re into **data, insights**, or building cool stuff with code 🚀
 
@@ -27,4 +19,4 @@ Let’s connect if you’re into **data, insights**, or building cool stuff with
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
